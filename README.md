@@ -59,3 +59,6 @@ https://testnet.openledger.xyz/?referral_code=b7f7iirzh4
 sigup google
 node
 Extension link : [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)
+
+#tutor for android: .[Video].
+.(https://t.me/maculairdrop/186).
