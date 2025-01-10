@@ -60,5 +60,6 @@ sigup google
 node
 Extension link : [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)
 
-#tutor for android: .[Video].
-.(https://t.me/maculairdrop/186).
+
+tutor for android get token
+Extension link : [Video](https://t.me/maculairdrop/186)
