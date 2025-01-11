@@ -54,9 +54,6 @@ node index.js
 ```
 Do not delete `data.json`, it store your websocket data. 
 
-#Resgiter tesnet 
-https://testnet.openledger.xyz/?referral_code=b7f7iirzh4
-sigup google
 node
 Extension link : [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)
 
