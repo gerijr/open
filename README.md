@@ -6,11 +6,11 @@ Openledger Bot is a simple tool designed to automate the node and daily reward c
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/gerijr/open.git
+   https://github.com/gerijr/open-Ledger-node-bot.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd open
+   cd open-Ledger-node-bot
    ```
 4. Install the necessary dependencies:
    ```bash
