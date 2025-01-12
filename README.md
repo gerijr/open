@@ -27,7 +27,7 @@ token1:workerID1:id1:ownerAddress1
 token2:workerID2:id2:ownerAddress2
 ```
 To get `Token`, `WorkerID`, `id` and `owneraddress` follow this steps:
-- Register account first, you can [click here to register](https://testnet.openledger.xyz/?referral_code=b7f7iirzh4)
+- Register account first, you can [click here to register](https://testnet.openledger.xyz/?referral_code=urr3hbjldm)
 - Download the [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)
 - Open Extension and right click and select `inspect`![no 1](https://github.com/user-attachments/assets/8abd970b-c1bc-44e1-b305-a9d76e7af063)
 
